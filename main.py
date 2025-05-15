@@ -1,3 +1,6 @@
 print("hello world!")
 x = 2 +3
-print(x)sdrfgh
+print(x)
+y=x+5
+z=x+y
+print(z)
